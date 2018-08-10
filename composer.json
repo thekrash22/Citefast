@@ -10,6 +10,7 @@
         "laravel/framework": "5.5.*",
         "laravel/tinker": "~1.0",
         "owen-it/laravel-auditing": "^7.0",
+        "tymon/jwt-auth": "1.0.0-rc.1",
         "zizaco/entrust": "5.2.x-dev"
     },
     "require-dev": {
